@@ -1,2 +1,2 @@
 # evil_reddit
-A clone of Reddit with springboot.
+A Reddit clone with springboot.
